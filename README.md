@@ -1,4 +1,4 @@
-# #justidex
+# #justindex
 
 A comprehensive list of decentralized dispute resolution platforms.
 
