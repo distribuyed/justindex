@@ -1,4 +1,6 @@
-# justidex
+# #justidex
+
+A comprehensive list of decentralized dispute resolution platforms.
 
 Please, consider [contributing](https://github.com/distribuyed/justidex/blob/master/CONTRIBUTING.md) and/or **donate** (I have a really big stomach to maintain. 🍺 🍔 🍩):
 
